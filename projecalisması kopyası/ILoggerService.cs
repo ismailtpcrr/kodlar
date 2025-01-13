@@ -1,5 +1,0 @@
-interface ILoggerService
-{
-    void Log();
-    
-}
