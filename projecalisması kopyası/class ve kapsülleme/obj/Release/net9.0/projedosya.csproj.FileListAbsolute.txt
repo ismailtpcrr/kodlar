@@ -1,0 +1,14 @@
+/Users/ismailtopucar/Desktop/PROJE/projedosya/bin/Release/net9.0/projedosya
+/Users/ismailtopucar/Desktop/PROJE/projedosya/bin/Release/net9.0/projedosya.deps.json
+/Users/ismailtopucar/Desktop/PROJE/projedosya/bin/Release/net9.0/projedosya.runtimeconfig.json
+/Users/ismailtopucar/Desktop/PROJE/projedosya/bin/Release/net9.0/projedosya.dll
+/Users/ismailtopucar/Desktop/PROJE/projedosya/bin/Release/net9.0/projedosya.pdb
+/Users/ismailtopucar/Desktop/PROJE/projedosya/obj/Release/net9.0/projedosya.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ismailtopucar/Desktop/PROJE/projedosya/obj/Release/net9.0/projedosya.AssemblyInfoInputs.cache
+/Users/ismailtopucar/Desktop/PROJE/projedosya/obj/Release/net9.0/projedosya.AssemblyInfo.cs
+/Users/ismailtopucar/Desktop/PROJE/projedosya/obj/Release/net9.0/projedosya.csproj.CoreCompileInputs.cache
+/Users/ismailtopucar/Desktop/PROJE/projedosya/obj/Release/net9.0/projedosya.dll
+/Users/ismailtopucar/Desktop/PROJE/projedosya/obj/Release/net9.0/refint/projedosya.dll
+/Users/ismailtopucar/Desktop/PROJE/projedosya/obj/Release/net9.0/projedosya.pdb
+/Users/ismailtopucar/Desktop/PROJE/projedosya/obj/Release/net9.0/projedosya.genruntimeconfig.cache
+/Users/ismailtopucar/Desktop/PROJE/projedosya/obj/Release/net9.0/ref/projedosya.dll

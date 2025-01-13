@@ -1,0 +1,14 @@
+/Users/ismailtopucar/Desktop/projecalisması/bos c# kopyası 2/bin/Release/net9.0/bos c#
+/Users/ismailtopucar/Desktop/projecalisması/bos c# kopyası 2/bin/Release/net9.0/bos c#.deps.json
+/Users/ismailtopucar/Desktop/projecalisması/bos c# kopyası 2/bin/Release/net9.0/bos c#.runtimeconfig.json
+/Users/ismailtopucar/Desktop/projecalisması/bos c# kopyası 2/bin/Release/net9.0/bos c#.dll
+/Users/ismailtopucar/Desktop/projecalisması/bos c# kopyası 2/bin/Release/net9.0/bos c#.pdb
+/Users/ismailtopucar/Desktop/projecalisması/bos c# kopyası 2/obj/Release/net9.0/bos c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ismailtopucar/Desktop/projecalisması/bos c# kopyası 2/obj/Release/net9.0/bos c#.AssemblyInfoInputs.cache
+/Users/ismailtopucar/Desktop/projecalisması/bos c# kopyası 2/obj/Release/net9.0/bos c#.AssemblyInfo.cs
+/Users/ismailtopucar/Desktop/projecalisması/bos c# kopyası 2/obj/Release/net9.0/bos c#.csproj.CoreCompileInputs.cache
+/Users/ismailtopucar/Desktop/projecalisması/bos c# kopyası 2/obj/Release/net9.0/bos c#.dll
+/Users/ismailtopucar/Desktop/projecalisması/bos c# kopyası 2/obj/Release/net9.0/refint/bos c#.dll
+/Users/ismailtopucar/Desktop/projecalisması/bos c# kopyası 2/obj/Release/net9.0/bos c#.pdb
+/Users/ismailtopucar/Desktop/projecalisması/bos c# kopyası 2/obj/Release/net9.0/bos c#.genruntimeconfig.cache
+/Users/ismailtopucar/Desktop/projecalisması/bos c# kopyası 2/obj/Release/net9.0/ref/bos c#.dll
